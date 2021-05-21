@@ -1,0 +1,37 @@
+
+#root {
+  height: 100%;
+}
+
+.logo{
+  line-height: 72px;
+  color: rgba(255,255,255,0.8);
+  padding: 0 20px;
+  font-weight: 600;
+  font-size: 18px;
+  letter-spacing: -0.3px;
+ }
+
+.balance-statistic {
+  margin-bottom: 20px;
+}
+
+.center-box {
+  display: flex;
+  justify-content: center;
+  height: 100%;
+  align-items: center;
+}
+
+.form-floating {
+  margin-bottom: 20px;
+}
+
+.site-layout .site-layout-background {
+  background: #fff;
+}
+
+.ant-modal-body .ant-select,
+.ant-modal-body .ant-picker {
+  width: 100%;
+}
